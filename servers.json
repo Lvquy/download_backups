@@ -1,0 +1,45 @@
+{
+    "Goovet": {
+        "ip": "34.142.132.55",
+        "username": "quyseo.ictu",
+        "pem": "/Users/lvquy/.ssh/id_rsa",
+        "remote_path": "/home/quyseo.ictu/goovet/backups/",
+        "local_folder": "/Volumes/ROSTEK_DATA/04.Backup/quy/goovet"
+    },
+    "Agz Robotics": {
+        "ip": "34.142.132.55",
+        "username": "quyseo.ictu",
+        "pem": "/Users/lvquy/.ssh/id_rsa",
+        "remote_path": "/home/quyseo.ictu/agz/backups/",
+        "local_folder": "/Volumes/ROSTEK_DATA/04.Backup/quy/robotics"
+    },
+    "SK Tech": {
+        "ip": "34.142.132.55",
+        "username": "quyseo.ictu",
+        "pem": "/Users/lvquy/.ssh/id_rsa",
+        "remote_path": "/home/quyseo.ictu/sk/backups/",
+        "local_folder": "/Volumes/ROSTEK_DATA/04.Backup/quy/sktech"
+    },
+    "Rostek": {
+        "ip": "35.240.202.71",
+        "username": "rostek",
+        "pem": "/Users/lvquy/ssh/rostek",
+        "remote_path": "/home/rostek/rostek/backups",
+        "local_folder": "/Volumes/ROSTEK_DATA/04.Backup/quy/rostek"
+    },
+    "Rtlink": {
+        "ip": "35.240.202.71",
+        "username": "rostek",
+        "pem": "/Users/lvquy/ssh/rostek",
+        "remote_path": "/home/rostek/rtlink/backups",
+        "local_folder": "/Volumes/ROSTEK_DATA/04.Backup/quy/rtlink"
+    },
+
+    "Xmax": {
+        "ip": "35.240.202.71",
+        "username": "rostek",
+        "pem": "/Users/lvquy/ssh/rostek",
+        "remote_path": "/home/rostek/xmax/backups",
+        "local_folder": "/Volumes/ROSTEK_DATA/04.Backup/quy/xmax"
+    }
+}
